@@ -10,6 +10,8 @@ Inicialmente fiz um objeto que ficava se movendo infinitamente pela tela, apenas
 
 Basicamente, são 60 quadrados gerados aleatoriamente pela tela do computador (1920x1080), que possuem velocidades iguais porém sentidos e direções diferentes. São 20 quadrados verdes, 20 vermelhos e 20 azuis. Ao se colidirem, a regra do jogo entra em vigor.
 
+![Collisions][collisions]
+
 ## Regras
 
 ![Interface][interface]
